@@ -13,11 +13,12 @@
     line-height: 1.6;
   }
   
-  header {
+  header a {
     background-color: transparent;
     color: #fff;
     padding: 10px 0;
     margin-top: 10px;
+    text-decoration: none;
   }
   
   nav ul {
